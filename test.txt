@@ -5,3 +5,4 @@ test!
 test twice!
 Creating a new branch is quick AND simple.
 add a new branch dev!
+git is so good!
