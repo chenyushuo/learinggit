@@ -1,0 +1,5 @@
+hello world!
+this is a test!
+Git is so amazing!
+test!
+test twice!
