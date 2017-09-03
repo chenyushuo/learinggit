@@ -3,4 +3,4 @@ this is a test!
 Git is so amazing!
 test!
 test twice!
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
